@@ -6,7 +6,7 @@
     /* Variables for custom properties */
     
      :root {
-        --font-primary: 'Raleway', sans-serif;
+        --font-primary:  'Raleway', sans-serif;
         --font-secondary: 'roboto';
         --font-weight-regular: 300;
         --font-weight-bold: 900;
