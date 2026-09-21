@@ -1,6 +1,7 @@
     *,
     *::before,
     *::after {
+       
         box-sizing:  border-box;
     }
     /* Variables for custom properties */
