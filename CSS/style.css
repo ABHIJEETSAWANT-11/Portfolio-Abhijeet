@@ -3,15 +3,14 @@
     *::after {
         box-sizing:  border-box;
     }
-    /* Variables for custom properties */
+    /* Variables for
+custom properties */
      :root {
         --font-primary:  'Raleway', sans-serif;
         --font-secondary: 'roboto';
         --font-weight-regular: 300;
         --font-weight-bold: 900;
         --font-primary-color: #Ffffff;
-
-   
         --font-secondary-color: #D2D5DD;
         --accent-color: #9cdcfe;
         --body-line-height: 1.6;
