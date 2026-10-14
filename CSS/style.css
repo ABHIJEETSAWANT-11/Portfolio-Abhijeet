@@ -3,7 +3,7 @@
     *::after {
         box-sizing:  border-box;
     }
-    /* Variables for
+    /* Variables for the 
 custom properties */
      :root {
         --font-primary:  'Raleway', sans-serif;
